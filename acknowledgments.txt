@@ -1,0 +1,82 @@
+Minetest
+========
+
+https://www.minetest.net
+
+
+
+Mintetest Game
+==============
+
+https://content.minetest.net/packages/Minetest/minetest_game/
+
+
+
+MineClone2
+==========
+
+https://content.minetest.net/packages/Wuzzy/mineclone2/
+
+
+
+MTUOTP
+======
+
+https://content.minetest.net/packages/GamingAssociation39/mtuotp/
+
+
+
+REFI Textures
+=============
+
+https://content.minetest.net/packages/MysticTempest/refi_textures/
+
+
+
+Nice Realistic
+==============
+
+https://content.minetest.net/packages/Richard_Try/nice_realistic/
+
+
+
+16x16 Food
+==========
+
+https://opengameart.org/content/16x16-food
+
+
+
+Mineclonia
+==========
+
+https://content.minetest.net/packages/ryvnf/mineclonia/
+
+
+
+Pixel Perfection
+================
+
+https://content.minetest.net/packages/sofar/pixelperfection/
+
+
+
+Vilja Pix 2.0
+=============
+
+https://content.minetest.net/packages/ROllerozxa/vilja_pix_2/
+
+
+
+Dungeon Crawl (and variants)
+============================
+
+https://github.com/crawl/tiles
+
+
+
+Item Icon Pack 32
+=================
+
+Icons by Kemono
+https://opengameart.org/content/32x32-items
